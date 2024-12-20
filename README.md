@@ -10,4 +10,4 @@
 # Structure
 The structure of this repo is as follow:
 - EDA folder contain our eda code.
-- Experiments folder contain our codes that produce the experiment result. Name of its subfolders corresponding to the name of each table in our experiments. Similarly, name of each files inside them corresponding to the names in the algorithm columns of the table. 
+- Experiments folder contain our codes that produce the experiment result. Name of its subfolders corresponding to the name of each table in our experiments. Similarly, name of each file inside them corresponding to the name in the algorithm column of the table. 
